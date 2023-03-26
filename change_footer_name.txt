@@ -1,0 +1,2 @@
+# https://www.wpthemedetector.com/   //for theme name detect
+#Visual Footer Credit Remover  // use this plugins footer remove
