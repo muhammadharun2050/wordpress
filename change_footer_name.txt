@@ -1,3 +1,2 @@
 # https://www.wpthemedetector.com/   //for theme name detect
 #Visual Footer Credit Remover  // use this plugins footer remove
-# 130+ Widgets | Best Addons For Elementor – FREE  // plugins for icon
