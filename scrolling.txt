@@ -1,0 +1,17 @@
+css
+------
+/* box container */
+.website-box{
+    heignt:300px;
+    overflow:hidden;
+}
+
+/* website image position */
+.website-img img{
+    object-fit: contain;
+    object-position: 0px 0px;
+    transition: object-position 6s ease;
+}
+
+js
+---------
