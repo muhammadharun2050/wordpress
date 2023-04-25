@@ -1,2 +1,4 @@
 # fb messenger bot // plugins  for messenger chat bot
 # cresta hlep chat // plugins for whatsapp chat bot 
+# facebook for wordpress // plugins for facebook fixels
+# facebook fixels helper // chrome extension for check facebook fixels
