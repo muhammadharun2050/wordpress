@@ -2,3 +2,5 @@
 #calendy.com // for meet time setup or call booking 
 # spyware // extension for view theme, plugins detect 
 # https://mcstarters.com/ // for header template
+# testmonial sliders // plugins for testimoial sliding
+
