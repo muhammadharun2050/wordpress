@@ -1,0 +1,12 @@
+$ full section ধরে mimium height 90px করে দিতে হবে।
+$ advance option থেকে margin bottom  -90px অথবা -120px দিয়ে দিতে হবে।
+$ advance motion option থেকে sticky করে দিতে হবে।
+$ motion effect 1000px
+
+# use this code , css 
+selector .elementor-sticky--effect{
+    background-color: rgba(0,0,0,0.5) !important;
+}
+selector{
+    transition: background-color 1s ease !important;
+}
