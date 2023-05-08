@@ -1,5 +1,6 @@
 $ full section ধরে mimium height 90px করে দিতে হবে।
 $ advance option থেকে margin bottom  -90px অথবা -120px দিয়ে দিতে হবে।
+$ z-index 2 করে দিতে হবে।
 $ advance motion option থেকে sticky করে দিতে হবে।
 $ motion effect 1000px
 

@@ -1,0 +1,1 @@
+<marquee  class="harun">right-to-left scroll</marquee>
