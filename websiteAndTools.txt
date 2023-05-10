@@ -3,4 +3,5 @@
 # spyware // extension for view theme, plugins detect 
 # https://mcstarters.com/ // for header template
 # testmonial sliders // plugins for testimoial sliding
+# developer zone // here you find all plugins
 
