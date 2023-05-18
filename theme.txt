@@ -1,1 +1,1 @@
-#smart meg  // theme for newspaper or blog website
+# clogmag  // theme for newspaper or blog website
