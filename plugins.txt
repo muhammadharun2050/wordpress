@@ -9,3 +9,12 @@ Opal Widgets For Elementor  // plugins for widgts
 # ultimate membner for wordpress // plugins for membership
     $it download https://developerzone.net thake
 
+
+## eCommerce Plugins
+1.Meta Box  By MetaBox.io
+2.Slider Revolution  By ThemePunch
+3.WCBoost - Products Compare  -By WCBoos
+4.WCBoost - Wishlist
+5.WCBoost - Variation Swatches
+6.Kirki - by Themeum
+7.MC4WP: Mailchimp for WordPres by ibericode
